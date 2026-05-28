@@ -18,4 +18,4 @@ This project builds a regression model to predict the daily revenue of a coffee 
 A multiple linear regression model is trained to predict revenue based on the available features. Evaluation is done using the R² metric on a test set.
 
 # 📄 License
-This project is licensed under the MIT License — see the [LICENSE](https://github.com/hamidrezaxe/Coffee-Shop-Revenue-Regression/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/hamidrezaesh/Coffee-Shop-Revenue-Regression/blob/main/LICENSE) file for details.
