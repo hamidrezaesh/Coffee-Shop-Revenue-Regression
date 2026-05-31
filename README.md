@@ -19,3 +19,5 @@ A multiple linear regression model is trained to predict revenue based on the av
 
 # 📄 License
 This project is licensed under the MIT License — see the [LICENSE](https://github.com/hamidrezaesh/Coffee-Shop-Revenue-Regression/blob/main/LICENSE) file for details.
+
+Made by [Hamidreza](https://github.com/hamidrezaesh)
